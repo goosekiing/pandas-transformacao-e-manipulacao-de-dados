@@ -33,7 +33,7 @@ pandas-transformacao-e-manipulacao-de-dados/
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/pandas-transformacao-e-manipulacao-de-dados.git
+   git clone https://github.com/goosekiing/pandas-transformacao-e-manipulacao-de-dados.git
    ```
 2. Navigate to the project directory:
    ```sh
